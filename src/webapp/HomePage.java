@@ -5,4 +5,6 @@ public class HomePage {
     //home
     //,,
     //updated
+    //footer
+    //finishing
 }
